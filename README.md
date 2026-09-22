@@ -1,7 +1,9 @@
 # Trabalho – Acesso a API e Cache
 
 **Aluno:** Adriano Pinheiro da Silva - 04193658
+
 **Tecnologias:** React Native (Expo Snack), Axios, AsyncStorage
+
 **Link online:** https://snack.expo.dev/@oadrianops/apiecache
 
 ---
